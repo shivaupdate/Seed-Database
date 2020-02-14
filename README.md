@@ -1,4 +1,4 @@
-# HN_TechnicalTest
+
 Seed the database from UI data in Code first EF
 
 1.	Seed (Create) a Visual Studio Solution. 
